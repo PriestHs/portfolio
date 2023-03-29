@@ -1,0 +1,14 @@
+.dark {
+    background-color: #252526;
+    color: $white;
+    .title-1 {
+        color: $white;
+    }
+    .project {
+        background-color: $black;
+        box-shadow: 0px 5px 35px rgba(0, 0, 0, 0.8);
+    }
+    .project__title {
+        color: $white;
+    }
+}
